@@ -15,5 +15,10 @@ module.exports = {
         filename: 'index.html',
         template: './src/index.html'
     })
-  ]
+  ],
+  devServer: {
+    contentBase: path.join(__dirname, 'dist'),
+    compress: false,
+    port: 9000
+  }
 }
