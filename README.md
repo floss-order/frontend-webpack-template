@@ -3,7 +3,7 @@ This is a simple webpack template for frontend projects. It was created for lear
 
 # Features
 1. Hot reload
-2. Vanilla CSS/SASS supportb
+2. Vanilla CSS/SASS support
 3. Babel
 4. Images support
 
