@@ -1,5 +1,5 @@
 # Description
-This is simple webpack template for frontend projects. It was created for learning purposes. Use it for own risk!
+This is a simple webpack template for frontend projects. It was created for learning purposes. Use it for own risk!
 
 # Features
 1. Hot reload
